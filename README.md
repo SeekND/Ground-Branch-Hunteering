@@ -3,7 +3,7 @@
 CURRENT VERSION: V1    //    COMPATIBLE WITH: Ground Branch CTE v1032
 ![Alt text](images/gb_hunteeringlogo.jpg?raw=true "hunteering")
 
-This mod recreates the real life Hunteering Airsoft game play created by 6mm Hunters into Ground Branch.
+This mod aims to recreates parts of the real life Hunteering Airsoft game play created by [6mm Hunters](https://www.youtube.com/channel/UC8fCbqHHeikMv2nwcWNJLVQ) into Ground Branch.
 
 Make no mistake. This is more of a horror game then anything else you've played in Ground Branch.
 You will be looking constantly over your shoulder thinking you are being watched until finally you get shot.
