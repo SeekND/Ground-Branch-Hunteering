@@ -33,3 +33,15 @@ NOTE: If you don't know if you are putting the files in the right place just che
 # HOW TO PLAY
 
 - Start game as normal. You can select Lone Wolf or create a server option.
+- Adjust options as you wish, select map and click play.
+- Once you enter the loadout space your loadout will be automatically selected. At the moment no loadout is restricted but for the best gameplay stick to the automatically selected loadout.
+
+Options are as follows:
+- Bot Count (you can have up to 8 bots)
+- Display search locations (the default is for all search locations to show and you have to find the correct where the bot is. If you want to limit the gameplay for a shorter play change to a different option)
+- Enemy Experience (how hard the bots are)
+- Exfil window in minutes (the amount of time you have from the end of the round to exfil)
+- Time limit (from testing 20 minutes seems to be the sweet spot)
+- Laptop hacking in seconds (how long it will take you to get the laptop - all laptops are in very visible locations)
+- Laptop proximity alert (if enabled your watch will warn you when you are close to the laptop)
+- Player team up (if enabled it will change the random player respawns to fixed - up to two teams can play together against the bots - the bots don't team up)
