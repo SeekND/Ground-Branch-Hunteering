@@ -27,8 +27,8 @@ You have extremely limited ammo (10 sniper rifle shots and one pistol magazine) 
 # INSTALLATION
 
 - Download the available zip file for the latest mod version
-- Open your Ground Branch installation folder
-![Alt text](images/gb_folder.JPG?raw=true "hunteering")
+- Open your Ground Branch installation folder (right mouse click in ground branch game on steam)
+![Alt text](images/gb_folder.JPG?raw=true "right mouse click in ground branch game on steam")
 
 - Unzip mod into Ground Branch installation folder (no files should be replaced as it doesn't use any of the original GB files)
 ![Alt text](images/gb_unzip.JPG?raw=true "hunteering")
