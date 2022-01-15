@@ -57,7 +57,7 @@ Game options:
 
 
 
-SPECIAL THANKS
+# SPECIAL THANKS
 
 - Ground Branch team for this amazing game
 - The Ground Branch Modding discord server for helpful insights
