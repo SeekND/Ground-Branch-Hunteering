@@ -1,9 +1,7 @@
 # Ground Branch Hunteering
 
-CURRENT VERSION: V1
-
-COMPATIBLE WITH: Ground Branch CTE v1032
-
+CURRENT VERSION: V1    //    COMPATIBLE WITH: Ground Branch CTE v1032
+![Alt text](images/gb_hunteering.JPG?raw=true "hunteering")
 
 This mod recreates the real life Hunteering Airsoft game play created by 6mm Hunters into Ground Branch.
 
@@ -30,10 +28,10 @@ You have extremely limited ammo (10 sniper rifle shots and one pistol magazine) 
 
 - Download the available zip file for the latest mod version
 - Open your Ground Branch installation folder
-![Alt text](images/gb_folder.JPG?raw=true "1")
+![Alt text](images/gb_folder.JPG?raw=true "hunteering")
 
 - Unzip mod into Ground Branch installation folder (no files should be replaced as it doesn't use any of the original GB files)
-![Alt text](images/gb_unzip.JPG?raw=true "1")
+![Alt text](images/gb_unzip.JPG?raw=true "hunteering")
 
 NOTE: If you don't know if you are putting the files in the right place just check the path of the files in the zip and match them to the Ground Branch installation folder path. Remember rushing things just makes things work worse or not at all :)
 
@@ -54,4 +52,4 @@ Game options:
 - Laptop proximity alert (if enabled your watch will warn you when you are close to the laptop)
 - Player team up (if enabled it will change the random player respawns to fixed - up to two teams can play together against the bots - the bots don't team up)
 
-![Alt text](images/gb_hunteering.JPG?raw=true "1")
+![Alt text](images/gb_hunteering.JPG?raw=true "hunteering")
