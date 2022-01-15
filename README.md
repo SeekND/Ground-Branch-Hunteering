@@ -6,7 +6,7 @@ CURRENT VERSION: V1    //    COMPATIBLE WITH: Ground Branch CTE v1032
 This mod aims to recreates parts of the **real life Hunteering Airsoft game play created by** [6mm Hunters](https://www.youtube.com/channel/UC8fCbqHHeikMv2nwcWNJLVQ) into [Ground Branch](https://store.steampowered.com/app/16900/GROUND_BRANCH).
 
 Make no mistake. This is more of a horror game then anything else you've played in Ground Branch.
-You will be looking constantly over your shoulder thinking you are being watched until finally you get shot.
+You will be looking constantly over your shoulder thinking you are being watched until finally you get shot or stuck staring at a rock because you thought it moved.
 
 The premise of the gameplay is to retrieve one laptop in the game area (of 5 possible locations) and extract with it at the end of the round.
 You have extremely limited ammo (10 sniper rifle shots and one pistol magazine) and are fully ghillied up, as are your adversaries.
