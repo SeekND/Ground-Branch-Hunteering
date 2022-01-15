@@ -36,7 +36,7 @@ NOTE: If you don't know if you are putting the files in the right place just che
 - Adjust options as you wish, select map and click play.
 - Once you enter the loadout space your loadout will be automatically selected. At the moment no loadout is restricted but for the best gameplay stick to the automatically selected loadout.
 
-Options are as follows:
+Game options:
 - Bot Count (you can have up to 8 bots)
 - Display search locations (the default is for all search locations to show and you have to find the correct where the bot is. If you want to limit the gameplay for a shorter play change to a different option)
 - Enemy Experience (how hard the bots are)
