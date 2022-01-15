@@ -39,7 +39,7 @@ NOTE: If you don't know if you are putting the files in the right place just che
 # HOW TO PLAY
 
 - Start game as normal. You can select Lone Wolf or create a server.
-- Adjust options as you wish, select map and click play.
+- Select Hunteering Deathmatch, adjust options as you wish, select map and click play.
 - Once you enter the ready room your loadout will be automatically selected. 
 - At the moment no loadout is restricted but for the best gameplay stick to the automatically selected loadout (eg: no vests, no belts)
 
