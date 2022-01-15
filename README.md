@@ -54,3 +54,12 @@ Game options:
 - Player team up (if enabled it will change the random player respawns to fixed - up to two teams can play together against the bots - the bots don't team up)
 
 ![Alt text](images/gb_hunteering.JPG?raw=true "hunteering")
+
+
+
+SPECIAL THANKS
+
+- Ground Branch team for this amazing game
+- The Ground Branch Modding discord server for helpful insights
+- Fatmarrow (GB dev) for always helping with my 1000 questions
+- bob/at (fellow GB modder) for priceless assist with a part of the code I was stuck on
