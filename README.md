@@ -17,7 +17,6 @@ You have extremely limited ammo (10 sniper rifle shots and one pistol magazine) 
 
 # DISCLAIMER WARNING
 - Ground Branch is still on Early Access and often getting updated so this mod may no longer work. Currently tested for GB CTE version 1032.
-- The author of the mod often get startled pretty badly when I get unknowingly shot by a bot OR player, so if a surprise loud headshot is not your thing maybe try a different mod :)
 - This mod can break at any time or potentially break your game (unlikely) which would require a reinstall.
 - The author of the mod take no responsibility if your game breaks due to installing this mod (correctly or incorrectly).
 - The author of the mod can't confirm this mod will be compatible with your current Ground Branch version.
