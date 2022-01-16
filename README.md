@@ -62,3 +62,4 @@ Game options:
 - The Ground Branch Modding discord server for helpful insights
 - Fatmarrow (GB dev) for always helping with my 1000 questions
 - bob/at (fellow GB modder) for priceless assist with a part of the code I was stuck on
+- all other gm modders from which I took examples and inspiration on how to write the code for this mission
