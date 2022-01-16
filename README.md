@@ -1,6 +1,6 @@
 # Ground Branch Hunteering
 
-CURRENT VERSION: V1    //    COMPATIBLE WITH: Ground Branch CTE v1032
+CURRENT VERSION: V1 (15 Jan 2022)   //    COMPATIBLE WITH: Ground Branch CTE v1032
 ![Alt text](images/gb_hunteeringlogo.jpg?raw=true "hunteering")
 
 This mod aims to recreates parts of the **real life Hunteering Airsoft game play created by** [6mm Hunters](https://www.youtube.com/channel/UC8fCbqHHeikMv2nwcWNJLVQ) into [Ground Branch](https://store.steampowered.com/app/16900/GROUND_BRANCH).
