@@ -1,0 +1,11 @@
+{
+    "name" : "Hunteering",
+    "version" : "1.00",
+    "dependencies" : [],
+    "files" : [
+        "GroundBranch/Content/GroundBranch/AI/Loadouts/BadGuys/HT_*.kit",
+        "GroundBranch/Content/GroundBranch/Lua/HunteeringDeathmatch.lua",
+        "GroundBranch/Content/GroundBranch/Mission/*/Hunteering.mis",
+        "GroundBranch/Localization/GroundBranch/en/HunteeringDeathmatch.csv"
+    ]
+}
