@@ -11,7 +11,7 @@ You will be looking constantly over your shoulder thinking you are being watched
 The premise of the gameplay is to retrieve one laptop in the game area (of 5 possible locations) and extract with it at the end of the round.
 You have extremely limited ammo (10 sniper rifle shots and one pistol magazine) and are fully ghillied up, as are your adversaries.
 
-- You can play by yourself against bots (suggest 1 or 2, but try 8 for a feeling of helplessness as shots are fired all around you)
+- You can play by yourself against bots (suggest 1 or 2, but try 8 for a feeling of helplessness as the forest fires shots all around you)
 - You can play against bots and players (again, suggest 1, max 2 bots)
 - You can team up with another player (up to two teams) and still add bots
 
