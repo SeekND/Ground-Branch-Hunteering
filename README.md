@@ -1,6 +1,6 @@
 # Ground Branch Hunteering
 
-CURRENT VERSION: V1 (15 Jan 2022)   //    COMPATIBLE WITH: Ground Branch CTE v1032
+CURRENT VERSION: V1.1 (22 Jan 2022)   //    COMPATIBLE WITH: Ground Branch CTE v1032
 ![Alt text](images/gb_hunteeringlogo.jpg?raw=true "hunteering")
 
 This mod aims to recreates parts of the **real life Hunteering Airsoft game play created by** [6mm Hunters](https://www.youtube.com/channel/UC8fCbqHHeikMv2nwcWNJLVQ) into [Ground Branch](https://store.steampowered.com/app/16900/GROUND_BRANCH).
@@ -13,7 +13,7 @@ You have extremely limited ammo (10 sniper rifle shots and one pistol magazine) 
 
 - You can play by yourself against bots (suggest 1 or 2, but try 8 for a feeling of helplessness as the forest fires shots all around you)
 - You can play against bots and players (again, suggest 1, max 2 bots)
-- You can team up with another player (up to two teams) and still add bots
+- You can team up with another player (up to two teams) and still add bots (the bots will all be part of a bot team against your player teams)
 
 # DISCLAIMER WARNING
 - Ground Branch is still on Early Access and often getting updated so this mod may no longer work. Currently tested for GB CTE version 1032.
